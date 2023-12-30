@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../tasks"
+		},
+		{
+			"path": "../grid"
+		},
+		{
+			"path": "../ownwebsite"
+		},
+		{
+			"path": "../uncle jhohn"
+		},
+		{
+			"path": "../sprite"
+		},
+		{
+			"path": "../media qury"
+		},
+		{
+			"path": "../bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap"
+	}
+}
